@@ -4,7 +4,7 @@
 
 Cześć! Nazywam się **Wiktoria Gajos** i jestem studentką **Cyberbezpieczeństwa** na Akademii Górniczo-Hutniczej w Krakowie. Na tej stronie możesz dowiedzieć się więcej o moich zainteresowaniach i pasjach.
 
-![TXT](assets/images/TXT.jpg)
+![TXT](TXT.jpg)
 
 ## Moje zainteresowania
 
