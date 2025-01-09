@@ -1,17 +1,15 @@
 # Winlek.github.io
----
-layout: default
-title: Wiktoria Gajos
----
 
 # Wiktoria Gajos
 
 Cześć! Nazywam się **Wiktoria Gajos** i jestem studentką **Cyberbezpieczeństwa** na Akademii Górniczo-Hutniczej w Krakowie. Na tej stronie możesz dowiedzieć się więcej o moich zainteresowaniach i pasjach.
 
+![TXT](assets/images/TXT.jpg)
+
 ## Moje zainteresowania
 
 - 🎶 Słuchanie muzyki K-pop
-  - Ulubione zespoły: **BND** i **TXT**
+  - Ulubione zespoły: **Boynextdoot** i **TXT**
 - 📚 Czytanie książek
 - 📺 Oglądanie seriali
 
