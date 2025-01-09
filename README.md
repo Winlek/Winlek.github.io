@@ -9,9 +9,11 @@ Cześć! Nazywam się **Wiktoria Gajos** i jestem studentką **Cyberbezpieczeńs
 ## Moje zainteresowania
 
 - 🎶 Słuchanie muzyki K-pop
-  - Ulubione zespoły: **Boynextdoot** i **TXT**
+  - Ulubione zespoły: **Boynextdoor** i **TXT**
 - 📚 Czytanie książek
+  - Ulubione książki: *Fourth Wing* Rebecca Yarros i *Królestwo mostu* Danielle L. Jensen
 - 📺 Oglądanie seriali
+  - ALICE IN BORDERLAND TO NAJLEPSZY SERIAL!!!!
 
 ## Kontakt
 
